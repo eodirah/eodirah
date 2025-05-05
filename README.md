@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eodirah/Ekpunobigabriel/main/logo.jpg" alt="Westcodeside Logo" style="width: 45%; border-radius: 12px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.4);">
+  <img src="https://raw.githubusercontent.com/eodirah/eodirah/main/logo.jpeg" alt="Westcodeside Logo" style="width: 45%; border-radius: 12px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.4);">
 </p>
 
 <p align="center">
